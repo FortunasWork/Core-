@@ -6,7 +6,3 @@ version: 1.0-SNAPSHOT
 database: true
 depend: [Vault]
 api-version: 1.19
-
-commands:
-  info:
-  help:
