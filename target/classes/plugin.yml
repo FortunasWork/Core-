@@ -1,0 +1,12 @@
+author: Fortunas
+name: Core
+main: me.pedro.plugin.Core
+version: 1.0-SNAPSHOT
+# load: STARTUP
+database: true
+depend: [Vault]
+api-version: 1.19
+
+commands:
+  info:
+  help:
